@@ -9,7 +9,7 @@ public class Convertidor {
 
         System.out.println("Seleccione la conversión:");
         System.out.println("1. Convertir a Fahrenheit");
-        System.out.println("2. Convertir a Kelvin");
+        System.out.println("2. Convertir a Kelvinpanadero");
         int opcion = scanner.nextInt();
 
         double resultado;
